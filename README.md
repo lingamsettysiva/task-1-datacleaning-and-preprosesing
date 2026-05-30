@@ -10,12 +10,19 @@ Mall Customer Segmentation Data
 
 ## Work Done
 - Loaded the dataset
+- 
 - Checked missing values
+- 
 - Checked duplicate records
+- 
 - Removed duplicates
+- 
 - Renamed column names
+- 
 - Standardized gender values
+- 
 - Checked data types
+- 
 - Saved cleaned dataset
 
 ## Files
@@ -27,12 +34,19 @@ Mall Customer Segmentation Data
 The dataset was cleaned and prepared for further analysis.
 
 ##What You Learned
+
 Using Pandas to load data
+
 Checking missing values with isnull()
+
 Finding duplicates with duplicated()
+
 Removing duplicates with drop_duplicates()
+
 Renaming columns
+
 Working with CSV files
+
 Saving cleaned data using to_csv()
 
 ## Author
