@@ -26,5 +26,14 @@ Mall Customer Segmentation Data
 ## Result
 The dataset was cleaned and prepared for further analysis.
 
+##What You Learned
+Using Pandas to load data
+Checking missing values with isnull()
+Finding duplicates with duplicated()
+Removing duplicates with drop_duplicates()
+Renaming columns
+Working with CSV files
+Saving cleaned data using to_csv()
+
 ## Author
 Siva Lingamsetty
